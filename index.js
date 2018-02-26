@@ -7,7 +7,4 @@ You should NOT try to redefine any of the above variables.
 */
 
 // Write your code below this line!
-const oldID = "some shit"
-const currentAge = "another shit"
-
-const newID = oldID + 1
+const newID = oldID + 1000000000
