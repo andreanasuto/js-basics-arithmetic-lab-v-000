@@ -15,4 +15,4 @@ const randomNumber = Math.floor(Math.random() * 19) + 1
 
 const randomInteger = Math.round(randomNumber)
 
-const randomUserID = Math.random(randomInteger)
+const randomUserID = 1000000000 + randomInteger
